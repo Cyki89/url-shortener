@@ -10,5 +10,5 @@
 | Endpoint | HTTP Method | Request Body |Result
 | --- | --- | --- | --- |
 | api | GET | - | Get all shortened urls |
-| api | POST | {" full_url" : "your_url_to_shorten "} | Create new short url |
+| api | POST | { "full_url" : "your_url_to_shorten" } | Create new short url |
 | api/:short_code | GET | - | Get reverse short url | 
